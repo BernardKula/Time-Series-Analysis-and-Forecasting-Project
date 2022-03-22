@@ -17,5 +17,5 @@ the initial dataset.<br />
 
 ## Dataset<br />
 ● The data is stored in the taxi.csv (https://bit.ly/3p1QPAv) file.<br />
-          ○ Download or import the dataset from the URL.
+  - Download or import the dataset from the URL.<br />
 ● The number of orders is in the num_orders column.
